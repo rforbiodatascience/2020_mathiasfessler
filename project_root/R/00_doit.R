@@ -1,5 +1,6 @@
 # Run all scripts
 # ------------------------------------------------------------------------------
+# Set directory
 setwd("/cloud/project/project_root")
 
 source(file = "R/01_load.R")
